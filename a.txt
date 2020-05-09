@@ -1,3 +1,3 @@
 Teste.
 O editor vi só é necessário para edição de commit.
-entendendo o HEAD.
+esta linha foi modificada no ramo master
