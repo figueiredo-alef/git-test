@@ -1,0 +1,7 @@
+Olá!
+Este teste está sendo realizado através do WSL2.
+O mesmo consiste em:
+	* clonar o repositório localmente;
+	* criar um arquivo;
+	* adicionar o arquivo ao repositório remoto;
+	* checar se averá algum erro.
