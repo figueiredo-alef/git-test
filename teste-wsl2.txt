@@ -7,3 +7,4 @@ O mesmo consiste em:
 	* checar se haverá algum erro.
 Verificação bem sucedida até aqui.
 Necessário executar git pull para última etapa de teste básico.
+Verificação final bem sucedida. Prosseguir com demais testes.
