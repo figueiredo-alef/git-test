@@ -8,3 +8,5 @@ O mesmo consiste em:
 Verificação bem sucedida até aqui.
 Necessário executar git pull para última etapa de teste básico.
 Verificação final bem sucedida. Prosseguir com demais testes.
+
+Segunda bateria de testes (após configurar vscode e windows terminal)
